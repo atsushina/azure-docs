@@ -185,7 +185,7 @@ The normal app access ports are:
 
 When the inbound and outbound requirements are taken into account, the NSGs should look similar to the NSGs shown in the following screenshot: 
 
-![Screenshot that shows inbound security rules.][4]
+![Screenshot that shows inbound security rules.][4] 
 
 A default rule enables the IPs in the virtual network to talk to the subnet. Another default rule enables the load balancer, also known as the public VIP, to communicate with the App Service Environment. To see the default rules, select **Default rules** (next to the **Add** icon).
 
